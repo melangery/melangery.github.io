@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Featured &#8211; Cooking Melangery</title>
+	<atom:link href="/category/featured/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>from sauté to soufflé</description>
+	<lastBuildDate>Sun, 25 Jun 2023 22:51:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/08/cropped-Untitled-1-32x32.jpg</url>
+	<title>Featured &#8211; Cooking Melangery</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Green Apple Salad with Celery, Pecans &#038; Honey</title>
+		<link>/2015/04/green-apple-salad-with-celery-pecans.html</link>
+					<comments>/2015/04/green-apple-salad-with-celery-pecans.html#comments</comments>
+		
+		<dc:creator><![CDATA[Yelena Strokin]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2015 06:23:00 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Salads]]></category>
+		<category><![CDATA[Vegetables]]></category>
+		<category><![CDATA[Appetizer]]></category>
+		<category><![CDATA[Celery]]></category>
+		<category><![CDATA[Cheese]]></category>
+		<category><![CDATA[Green Apple]]></category>
+		<category><![CDATA[Healthy]]></category>
+		<category><![CDATA[Honey]]></category>
+		<category><![CDATA[Lunch]]></category>
+		<category><![CDATA[Palio diet]]></category>
+		<category><![CDATA[Pecan Nuts]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[Salad]]></category>
+		<category><![CDATA[Tower salad]]></category>
+		<category><![CDATA[Vegetarian]]></category>
+		<guid isPermaLink="false">https://www.melangery.com/2015/04/29/green-apple-salad-with-celery-pecans/</guid>
+
+					<description><![CDATA[Spring beauty comes in many forms! Enjoy your beautiful day!]]></description>
+		
+					<wfw:commentRss>/2015/04/green-apple-salad-with-celery-pecans.html/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Old-Fashioned Stuffed Baked Clams</title>
+		<link>/2014/01/old-fashioned-stuffed-baked-clams.html</link>
+					<comments>/2014/01/old-fashioned-stuffed-baked-clams.html#comments</comments>
+		
+		<dc:creator><![CDATA[Yelena Strokin]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2014 11:21:00 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Fish & Seafood]]></category>
+		<category><![CDATA[Appetizer]]></category>
+		<category><![CDATA[Bell pepper]]></category>
+		<category><![CDATA[Breadcrumbs]]></category>
+		<category><![CDATA[Casino]]></category>
+		<category><![CDATA[Clams]]></category>
+		<category><![CDATA[Dill]]></category>
+		<category><![CDATA[Fish]]></category>
+		<category><![CDATA[Lemon]]></category>
+		<category><![CDATA[Lunch]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[Seafood]]></category>
+		<guid isPermaLink="false">https://www.melangery.com/2014/01/20/old-fashioned-stuffed-baked-clams/</guid>
+
+					<description><![CDATA[This is quite an old-fashioned recipe but I really love it! A very simple appetizer but full of flavor. Make sure that you use fresh clams as this will provide the best result. Hard-shell and soft-shell clams range from the tiny steamers and littlenecks to the huge geoduck, whose neck may protrude several feet from its shell, and giant sea clams, which can weigh several hundred pounds. The smallest clams are the best for eating whole, usually steamed or in sauces. Bigger clams are usually tougher and best minced, then added to the sauces, chowders, and other dishes.]]></description>
+		
+					<wfw:commentRss>/2014/01/old-fashioned-stuffed-baked-clams.html/feed</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pear Arugula Salad with Walnuts &#038; Blue Cheese</title>
+		<link>/2013/04/pear-arugula-salad-with-walnuts-blue.html</link>
+					<comments>/2013/04/pear-arugula-salad-with-walnuts-blue.html#comments</comments>
+		
+		<dc:creator><![CDATA[Yelena Strokin]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2013 10:31:00 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Salads]]></category>
+		<category><![CDATA[Vegetables]]></category>
+		<category><![CDATA[Appetizer]]></category>
+		<category><![CDATA[Arugula]]></category>
+		<category><![CDATA[Blue cheese]]></category>
+		<category><![CDATA[Elegant]]></category>
+		<category><![CDATA[Honey]]></category>
+		<category><![CDATA[Lemon juice]]></category>
+		<category><![CDATA[Lunch]]></category>
+		<category><![CDATA[Luxury]]></category>
+		<category><![CDATA[Pears]]></category>
+		<category><![CDATA[Radish]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[Salad]]></category>
+		<category><![CDATA[Walnuts]]></category>
+		<category><![CDATA[Wine Vinegar]]></category>
+		<guid isPermaLink="false">https://www.melangery.com/2013/04/23/pear-arugula-salad-with-walnuts-blue/</guid>
+
+					<description><![CDATA[This Pear Arugula Salad is elegant and unusual recipe for dinner party salads or sophisticated lunch appetizer that will appeal to the eye as well as the palate. Luxury creation from simple ingredients is presented to maximum visual effect and quarantined to impress and please your quests. &#160;]]></description>
+		
+					<wfw:commentRss>/2013/04/pear-arugula-salad-with-walnuts-blue.html/feed</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
